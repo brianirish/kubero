@@ -28,6 +28,7 @@
     "@vue/cli-service": "^5.0.8",
     "eslint": "^8.30.0",
     "eslint-plugin-vue": "^9.8.0",
+    "eslint-plugin-vuetify": "^2.1.1",
     "sass": "1.32.13",
     "sass-loader": "^10.0.0",
     "vue-cli-plugin-vuetify": "~2.1.0",
